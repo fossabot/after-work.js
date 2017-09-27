@@ -1,4 +1,5 @@
 ![after-work.js](aw.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2Fafter-work.js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2Fafter-work.js?ref=badge_shield)
 
 [![CircleCI](https://circleci.com/gh/qlik-oss/after-work.js.svg?style=shield)](https://circleci.com/gh/qlik-oss/after-work.js)
 [![Greenkeeper badge](https://badges.greenkeeper.io/qlik-oss/after-work.js.svg)](https://greenkeeper.io/)
@@ -30,3 +31,7 @@ You can also accomplish this by running `npm install --save-dev after-work.js`
 ## Contributing
 
 Please follow the instructions in [CONTRIBUTING.md](.github/CONTRIBUTING.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2Fafter-work.js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2Fafter-work.js?ref=badge_large)
